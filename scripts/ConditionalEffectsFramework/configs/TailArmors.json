@@ -1,0 +1,34 @@
+{
+	"tailarmorarg": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": true
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/Tail Armor Arg.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorkhajiit": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": true
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/Tail Armor Khajiit.nif",
+				"node": "tail"
+			}
+		]
+	}
+}
