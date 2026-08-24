@@ -15,18 +15,18 @@
 			}
 		]
 	},
-	"tailarmorkhajiit": {
+	"tailarmorkhajiitchitin": {
 		"conditions": [
 			{
 				"race": [ "khajiit" ],
 				"equipment": {
-					"greaves": true
+					"greaves": "chitin greaves"
 				}
 			}
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/Tail Armor Khajiit.nif",
+				"mesh": "meshes/Tail Armors/Tail Armor Khajiit Chitin.nif",
 				"node": "tail"
 			}
 		]
