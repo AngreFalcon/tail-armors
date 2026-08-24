@@ -1,0 +1,50 @@
+{
+	"tailarmorkhajiitchitin": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "chitin greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/light/Chitin.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorkhajiitnetchleather": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "netch_leather_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/light/Netch Leather.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorkhajiitfur": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "fur_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/light/Fur.nif",
+				"node": "tail"
+			}
+		]
+	}
+}
