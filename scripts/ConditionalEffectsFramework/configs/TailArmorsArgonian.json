@@ -1,8 +1,8 @@
 {
-	"tailarmorkhajiitchitin": {
+	"tailarmorargonianchitin": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "chitin greaves"
 				}
@@ -10,15 +10,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/light/Chitin.nif",
+				"mesh": "meshes/Tail Armors/argonian/light/Chitin.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitnetchleather": {
+	"tailarmorargoniannetchleather": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "netch_leather_greaves"
 				}
@@ -26,15 +26,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/light/Netch Leather.nif",
+				"mesh": "meshes/Tail Armors/argonian/light/Netch Leather.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitfur": {
+	"tailarmorargonianfur": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "fur_greaves"
 				}
@@ -42,15 +42,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/light/Fur.nif",
+				"mesh": "meshes/Tail Armors/argonian/light/Fur.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitglass": {
+	"tailarmorargonianglass": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "glass_greaves"
 				}
@@ -58,7 +58,7 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/light/Glass.nif",
+				"mesh": "meshes/Tail Armors/argonian/light/Glass.nif",
 				"node": "tail"
 			}
 		]
