@@ -62,5 +62,21 @@
 				"node": "tail"
 			}
 		]
+	},
+	"tailarmorargonianbonemold": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": "bonemold_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/argonian/medium/Bonemold.nif",
+				"node": "tail"
+			}
+		]
 	}
 }
