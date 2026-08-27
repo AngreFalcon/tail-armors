@@ -15,6 +15,22 @@
 			}
 		]
 	},
+	"tailarmorkhajiitglass": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "glass_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/light/Glass.nif",
+				"node": "tail"
+			}
+		]
+	},
 	"tailarmorkhajiitnetchleather": {
 		"conditions": [
 			{
@@ -47,18 +63,82 @@
 			}
 		]
 	},
-	"tailarmorkhajiitglass": {
+	"tailarmorkhajiitbonemold": {
 		"conditions": [
 			{
 				"race": [ "khajiit" ],
 				"equipment": {
-					"greaves": "glass_greaves"
+					"greaves": "bonemold_greaves"
 				}
 			}
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/light/Glass.nif",
+				"mesh": "meshes/Tail Armors/khajiit/medium/Bonemold.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorkhajiitimperialchainmail": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "imperial_chain_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/medium/Imperial Chainmail.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorkhajiitorcish": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "orcish_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/medium/Orcish.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorkhajiitebony": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "ebony_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/heavy/Ebony.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorkhajiitiron": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "iron_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/heavy/Iron.nif",
 				"node": "tail"
 			}
 		]

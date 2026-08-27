@@ -15,6 +15,22 @@
 			}
 		]
 	},
+	"tailarmorargonianglass": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": "glass_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/argonian/light/Glass.nif",
+				"node": "tail"
+			}
+		]
+	},
 	"tailarmorargoniannetchleather": {
 		"conditions": [
 			{
@@ -47,22 +63,6 @@
 			}
 		]
 	},
-	"tailarmorargonianglass": {
-		"conditions": [
-			{
-				"race": [ "argonian" ],
-				"equipment": {
-					"greaves": "glass_greaves"
-				}
-			}
-		],
-		"effects": [
-			{
-				"mesh": "meshes/Tail Armors/argonian/light/Glass.nif",
-				"node": "tail"
-			}
-		]
-	},
 	"tailarmorargonianbonemold": {
 		"conditions": [
 			{
@@ -75,6 +75,70 @@
 		"effects": [
 			{
 				"mesh": "meshes/Tail Armors/argonian/medium/Bonemold.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorargonianimperialchainmail": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": "imperial_chain_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/argonian/medium/Imperial Chainmail.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorargonianorcish": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": "orcish_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/argonian/medium/Orcish.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorargonianebony": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": "ebony_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/argonian/heavy/Ebony.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorargonianiron": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": "iron_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/argonian/heavy/Iron.nif",
 				"node": "tail"
 			}
 		]
