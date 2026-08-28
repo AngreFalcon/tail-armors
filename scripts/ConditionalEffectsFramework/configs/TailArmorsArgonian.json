@@ -127,18 +127,18 @@
 			}
 		]
 	},
-	"tailarmorargonianiron": {
+	"tailarmorargoniansteel": {
 		"conditions": [
 			{
 				"race": [ "argonian" ],
 				"equipment": {
-					"greaves": "iron_greaves"
+					"greaves": "steel_greaves"
 				}
 			}
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/argonian/heavy/Iron.nif",
+				"mesh": "meshes/Tail Armors/argonian/heavy/Steel.nif",
 				"node": "tail"
 			}
 		]

@@ -142,5 +142,21 @@
 				"node": "tail"
 			}
 		]
+	},
+	"tailarmorkhajiitsteel": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "steel_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/heavy/Steel.nif",
+				"node": "tail"
+			}
+		]
 	}
 }
