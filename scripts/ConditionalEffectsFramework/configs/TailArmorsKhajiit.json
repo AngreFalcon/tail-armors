@@ -174,5 +174,21 @@
 				"node": "tail"
 			}
 		]
+	},
+	"tailarmorkhajiitimperial": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "imperial_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/heavy/Imperial Steel.nif",
+				"node": "tail"
+			}
+		]
 	}
 }

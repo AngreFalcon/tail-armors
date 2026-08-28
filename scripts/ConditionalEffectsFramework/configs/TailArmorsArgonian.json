@@ -158,5 +158,21 @@
 				"node": "tail"
 			}
 		]
+	},
+	"tailarmorargonianimperial": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": "imperial_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/argonian/heavy/Imperial Steel.nif",
+				"node": "tail"
+			}
+		]
 	}
 }
