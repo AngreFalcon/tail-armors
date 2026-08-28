@@ -142,5 +142,21 @@
 				"node": "tail"
 			}
 		]
+	},
+	"tailarmorargoniantemplar": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": "templar_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/argonian/heavy/Imperial Templar.nif",
+				"node": "tail"
+			}
+		]
 	}
 }

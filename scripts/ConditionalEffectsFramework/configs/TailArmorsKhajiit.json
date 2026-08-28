@@ -158,5 +158,21 @@
 				"node": "tail"
 			}
 		]
+	},
+	"tailarmorkhajiittemplar": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "templar_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/heavy/Imperial Templar.nif",
+				"node": "tail"
+			}
+		]
 	}
 }
