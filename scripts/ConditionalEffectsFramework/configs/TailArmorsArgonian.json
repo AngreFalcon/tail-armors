@@ -174,5 +174,21 @@
 				"node": "tail"
 			}
 		]
+	},
+	"tailarmorargoniandwemer": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": "dwemer_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/argonian/heavy/Dwemer.nif",
+				"node": "tail"
+			}
+		]
 	}
 }

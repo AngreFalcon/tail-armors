@@ -175,18 +175,18 @@
 			}
 		]
 	},
-	"tailarmorkhajiitimperial": {
+	"tailarmorkhajiitdwemer": {
 		"conditions": [
 			{
 				"race": [ "khajiit" ],
 				"equipment": {
-					"greaves": "imperial_greaves"
+					"greaves": "dwemer_greaves"
 				}
 			}
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/heavy/Imperial Steel.nif",
+				"mesh": "meshes/Tail Armors/khajiit/heavy/Dwemer.nif",
 				"node": "tail"
 			}
 		]
