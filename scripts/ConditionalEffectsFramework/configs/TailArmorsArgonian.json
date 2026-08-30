@@ -238,5 +238,37 @@
 				"node": "tail"
 			}
 		]
+	},
+	"tailarmorargonianice": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": "bm_ice_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/argonian/bloodmoon/medium/Ice.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorargoniannordicmail": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": "bm_nordicmail_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/argonian/bloodmoon/heavy/Nordic Mail.nif",
+				"node": "tail"
+			}
+		]
 	}
 }

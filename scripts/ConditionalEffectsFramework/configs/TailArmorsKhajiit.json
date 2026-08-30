@@ -238,5 +238,37 @@
 				"node": "tail"
 			}
 		]
+	},
+	"tailarmorkhajiitice": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "bm_ice_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/bloodmoon/medium/Ice.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorkhajiitnordicmail": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "bm_nordicmail_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/bloodmoon/heavy/Nordic Mail.nif",
+				"node": "tail"
+			}
+		]
 	}
 }
