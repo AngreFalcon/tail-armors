@@ -10,7 +10,7 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/argonian/light/Chitin.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/light/Chitin.nif",
 				"node": "tail"
 			}
 		]
@@ -26,7 +26,7 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/argonian/light/Glass.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/light/Glass.nif",
 				"node": "tail"
 			}
 		]
@@ -42,7 +42,7 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/argonian/light/Netch Leather.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/light/Netch Leather.nif",
 				"node": "tail"
 			}
 		]
@@ -58,7 +58,7 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/argonian/light/Fur.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/light/Fur.nif",
 				"node": "tail"
 			}
 		]
@@ -74,7 +74,7 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/argonian/medium/Bonemold.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/medium/Bonemold.nif",
 				"node": "tail"
 			}
 		]
@@ -90,7 +90,7 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/argonian/medium/Imperial Chainmail.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/medium/Imperial Chainmail.nif",
 				"node": "tail"
 			}
 		]
@@ -106,7 +106,7 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/argonian/medium/Orcish.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/medium/Orcish.nif",
 				"node": "tail"
 			}
 		]
@@ -122,7 +122,7 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/argonian/heavy/Ebony.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/heavy/Ebony.nif",
 				"node": "tail"
 			}
 		]
@@ -138,7 +138,7 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/argonian/heavy/Steel.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/heavy/Steel.nif",
 				"node": "tail"
 			}
 		]
@@ -154,7 +154,7 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/argonian/heavy/Imperial Templar.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/heavy/Imperial Templar.nif",
 				"node": "tail"
 			}
 		]
@@ -170,7 +170,7 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/argonian/heavy/Imperial Steel.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/heavy/Imperial Steel.nif",
 				"node": "tail"
 			}
 		]
@@ -186,7 +186,55 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/argonian/heavy/Dwemer.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/heavy/Dwemer.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorargoniandaedric": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": "daedric_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/argonian/vanilla/heavy/Daedric.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorargonianwolf": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": "BM wolf greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/argonian/bloodmoon/light/Wolf.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorargonianbear": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": "BM bear greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/argonian/bloodmoon/medium/Bear.nif",
 				"node": "tail"
 			}
 		]
