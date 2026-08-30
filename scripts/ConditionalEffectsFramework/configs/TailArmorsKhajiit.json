@@ -212,7 +212,7 @@
 			{
 				"race": [ "khajiit" ],
 				"equipment": {
-					"greaves": "BM wolf greaves"
+					"greaves": "bm wolf greaves"
 				}
 			}
 		],
@@ -228,7 +228,7 @@
 			{
 				"race": [ "khajiit" ],
 				"equipment": {
-					"greaves": "BM bear greaves"
+					"greaves": "bm bear greaves"
 				}
 			}
 		],
