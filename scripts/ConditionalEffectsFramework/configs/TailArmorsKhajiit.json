@@ -270,5 +270,69 @@
 				"node": "tail"
 			}
 		]
+	},
+	"tailarmorkhajiitdarkbrotherhood": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "darkbrotherhood greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/tribual/light/Dark Brotherhood.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorkhajiitadamantium": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "adamantium_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/tribual/medium/Adamantium.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorkhajiithelsethguard": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "helsethguard_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/tribual/medium/Helseth Guard.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorkhajiitindorilguard": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "indoril_mh_guard_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/tribual/heavy/Indoril Guard.nif",
+				"node": "tail"
+			}
+		]
 	}
 }

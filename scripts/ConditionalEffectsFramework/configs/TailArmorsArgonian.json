@@ -270,5 +270,69 @@
 				"node": "tail"
 			}
 		]
+	},
+	"tailarmorargoniandarkbrotherhood": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": "darkbrotherhood greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/argonian/tribual/light/Dark Brotherhood.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorargonianadamantium": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": "adamantium_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/argonian/tribual/medium/Adamantium.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorargonianhelsethguard": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": "helsethguard_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/argonian/tribual/medium/Helseth Guard.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorargonianindorilguard": {
+		"conditions": [
+			{
+				"race": [ "argonian" ],
+				"equipment": {
+					"greaves": "indoril_mh_guard_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/argonian/tribual/heavy/Indoril Guard.nif",
+				"node": "tail"
+			}
+		]
 	}
 }
