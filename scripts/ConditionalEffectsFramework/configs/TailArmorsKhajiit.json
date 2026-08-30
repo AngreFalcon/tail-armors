@@ -148,7 +148,10 @@
 			{
 				"race": [ "khajiit" ],
 				"equipment": {
-					"greaves": "steel_greaves"
+					"greaves": [
+						"steel_greaves",
+						"steel_greaves_ancient"
+					]
 				}
 			}
 		],
@@ -175,6 +178,22 @@
 			}
 		]
 	},
+	"tailarmorkhajiitimperial": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "imperial_greaves"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/vanilla/heavy/Imperial Steel.nif",
+				"node": "tail"
+			}
+		]
+	},
 	"tailarmorkhajiitdwemer": {
 		"conditions": [
 			{
@@ -196,7 +215,10 @@
 			{
 				"race": [ "khajiit" ],
 				"equipment": {
-					"greaves": "daedric_greaves"
+					"greaves": [
+						"daedric_greaves",
+						"daedric_greaves_htab"
+					]
 				}
 			}
 		],
@@ -223,6 +245,22 @@
 			}
 		]
 	},
+	"tailarmorkhajiitsnowwolf": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "bm_wolf_greaves_snow"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/bloodmoon/light/Snow Wolf.nif",
+				"node": "tail"
+			}
+		]
+	},
 	"tailarmorkhajiitbear": {
 		"conditions": [
 			{
@@ -235,6 +273,22 @@
 		"effects": [
 			{
 				"mesh": "meshes/Tail Armors/khajiit/bloodmoon/medium/Bear.nif",
+				"node": "tail"
+			}
+		]
+	},
+	"tailarmorkhajiitsnowbear": {
+		"conditions": [
+			{
+				"race": [ "khajiit" ],
+				"equipment": {
+					"greaves": "bm_bear_greaves_snow"
+				}
+			}
+		],
+		"effects": [
+			{
+				"mesh": "meshes/Tail Armors/khajiit/bloodmoon/medium/Snow Bear.nif",
 				"node": "tail"
 			}
 		]
@@ -282,7 +336,7 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/tribual/light/Dark Brotherhood.nif",
+				"mesh": "meshes/Tail Armors/khajiit/tribunal/light/Dark Brotherhood.nif",
 				"node": "tail"
 			}
 		]
@@ -298,7 +352,7 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/tribual/medium/Adamantium.nif",
+				"mesh": "meshes/Tail Armors/khajiit/tribunal/medium/Adamantium.nif",
 				"node": "tail"
 			}
 		]
@@ -314,7 +368,7 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/tribual/medium/Helseth Guard.nif",
+				"mesh": "meshes/Tail Armors/khajiit/tribunal/medium/Helseth Guard.nif",
 				"node": "tail"
 			}
 		]
@@ -324,13 +378,16 @@
 			{
 				"race": [ "khajiit" ],
 				"equipment": {
-					"greaves": "indoril_mh_guard_greaves"
+					"greaves": [
+						"indoril_mh_guard_greaves",
+						"indoril_almalexia_greaves"
+					]
 				}
 			}
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/tribual/heavy/Indoril Guard.nif",
+				"mesh": "meshes/Tail Armors/khajiit/tribunal/heavy/Indoril Guard.nif",
 				"node": "tail"
 			}
 		]
