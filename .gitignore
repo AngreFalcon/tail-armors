@@ -1,3 +1,4 @@
 textures/*.dds
 extra/armor references
 textures/.used
+dist
