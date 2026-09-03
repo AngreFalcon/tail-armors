@@ -1,8 +1,8 @@
 {
-	"tailarmorkhajiitchitin": {
+	"chitin": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "chitin greaves"
 				}
@@ -10,15 +10,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/vanilla/light/Chitin.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/light/Chitin.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitglass": {
+	"glass": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "glass_greaves"
 				}
@@ -26,15 +26,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/vanilla/light/Glass.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/light/Glass.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitnetchleather": {
+	"netch leather": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "netch_leather_greaves"
 				}
@@ -42,15 +42,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/vanilla/light/Netch Leather.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/light/Netch Leather.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitfur": {
+	"fur": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "fur_greaves"
 				}
@@ -58,15 +58,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/vanilla/light/Fur.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/light/Fur.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitbonemold": {
+	"bonemold": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "bonemold_greaves"
 				}
@@ -74,15 +74,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/vanilla/medium/Bonemold.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/medium/Bonemold.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitimperialchainmail": {
+	"imperial chainmail": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "imperial_chain_greaves"
 				}
@@ -90,15 +90,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/vanilla/medium/Imperial Chainmail.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/medium/Imperial Chainmail.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitorcish": {
+	"orcish": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "orcish_greaves"
 				}
@@ -106,15 +106,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/vanilla/medium/Orcish.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/medium/Orcish.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitebony": {
+	"ebony": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "ebony_greaves"
 				}
@@ -122,15 +122,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/vanilla/heavy/Ebony.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/heavy/Ebony.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitiron": {
+	"iron": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "iron_greaves"
 				}
@@ -138,15 +138,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/vanilla/heavy/Iron.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/heavy/Iron.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitsteel": {
+	"steel": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": [
 						"steel_greaves",
@@ -157,15 +157,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/vanilla/heavy/Steel.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/heavy/Steel.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiittemplar": {
+	"imperial templar": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "templar_greaves"
 				}
@@ -173,15 +173,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/vanilla/heavy/Imperial Templar.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/heavy/Imperial Templar.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitimperial": {
+	"imperial steel": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "imperial_greaves"
 				}
@@ -189,15 +189,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/vanilla/heavy/Imperial Steel.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/heavy/Imperial Steel.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitdwemer": {
+	"dwemer": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "dwemer_greaves"
 				}
@@ -205,15 +205,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/vanilla/heavy/Dwemer.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/heavy/Dwemer.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitdaedric": {
+	"daedric": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": [
 						"daedric_greaves",
@@ -224,15 +224,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/vanilla/heavy/Daedric.nif",
+				"mesh": "meshes/Tail Armors/argonian/vanilla/heavy/Daedric.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitwolf": {
+	"wolf": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "bm wolf greaves"
 				}
@@ -240,15 +240,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/bloodmoon/light/Wolf.nif",
+				"mesh": "meshes/Tail Armors/argonian/bloodmoon/light/Wolf.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitsnowwolf": {
+	"snow wolf": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "bm_wolf_greaves_snow"
 				}
@@ -256,15 +256,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/bloodmoon/light/Snow Wolf.nif",
+				"mesh": "meshes/Tail Armors/argonian/bloodmoon/light/Snow Wolf.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitbear": {
+	"bear": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "bm bear greaves"
 				}
@@ -272,15 +272,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/bloodmoon/medium/Bear.nif",
+				"mesh": "meshes/Tail Armors/argonian/bloodmoon/medium/Bear.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitsnowbear": {
+	"snow bear": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "bm_bear_greaves_snow"
 				}
@@ -288,15 +288,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/bloodmoon/medium/Snow Bear.nif",
+				"mesh": "meshes/Tail Armors/argonian/bloodmoon/medium/Snow Bear.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitice": {
+	"ice": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "bm_ice_greaves"
 				}
@@ -304,15 +304,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/bloodmoon/medium/Ice.nif",
+				"mesh": "meshes/Tail Armors/argonian/bloodmoon/medium/Ice.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitnordicmail": {
+	"nordic mail": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "bm_nordicmail_greaves"
 				}
@@ -320,15 +320,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/bloodmoon/heavy/Nordic Mail.nif",
+				"mesh": "meshes/Tail Armors/argonian/bloodmoon/heavy/Nordic Mail.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitdarkbrotherhood": {
+	"dark brotherhood": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "darkbrotherhood greaves"
 				}
@@ -336,15 +336,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/tribunal/light/Dark Brotherhood.nif",
+				"mesh": "meshes/Tail Armors/argonian/tribunal/light/Dark Brotherhood.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitadamantium": {
+	"adamantium": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "adamantium_greaves"
 				}
@@ -352,15 +352,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/tribunal/medium/Adamantium.nif",
+				"mesh": "meshes/Tail Armors/argonian/tribunal/medium/Adamantium.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiithelsethguard": {
+	"helseth guard": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": "helsethguard_greaves"
 				}
@@ -368,15 +368,15 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/tribunal/medium/Helseth Guard.nif",
+				"mesh": "meshes/Tail Armors/argonian/tribunal/medium/Helseth Guard.nif",
 				"node": "tail"
 			}
 		]
 	},
-	"tailarmorkhajiitindorilguard": {
+	"indoril guard": {
 		"conditions": [
 			{
-				"race": [ "khajiit" ],
+				"race": [ "argonian" ],
 				"equipment": {
 					"greaves": [
 						"indoril_mh_guard_greaves",
@@ -387,7 +387,7 @@
 		],
 		"effects": [
 			{
-				"mesh": "meshes/Tail Armors/khajiit/tribunal/heavy/Indoril Guard.nif",
+				"mesh": "meshes/Tail Armors/argonian/tribunal/heavy/Indoril Guard.nif",
 				"node": "tail"
 			}
 		]
